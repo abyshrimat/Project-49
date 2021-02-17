@@ -1,0 +1,19 @@
+h1{color:brown}
+/**{border:solid}*/
+.header{
+    background-color:bisque;
+    display:flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display:flex;
+    justify-content: first baseline;
+    flex-direction: column;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+
+}
